@@ -9,7 +9,7 @@ int main()
     printf("Enter Sentence with  '_' delimeter\n\n");
     gets(sent);
     printf("\n\n");
-    ptr=strtok(sent,"_");
+    ptr=strtok(sent,"_"); //split a string into a series of tokens based on a particular delimiter.
 
     while(ptr!=NULL)
      {

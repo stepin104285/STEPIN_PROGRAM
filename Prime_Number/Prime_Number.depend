@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597219307 source:f:\divyesh files\stepin program\c code\prime_number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1597219307 source:f:\divyesh files\stepin program\c code\prime_number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1597306703 source:c:\users\abc\desktop\prime_number\main.c
+	"test_Prime_Number.h"
+	<stdio.h>
+	<stdlib.h>
+
+1597231939 c:\users\abc\desktop\prime_number\test\test_prime_number.h
+
+1597007164 source:c:\users\abc\desktop\prime_number\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597007164 c:\users\abc\desktop\prime_number\unity\unity.h
+	"unity_internals.h"
+
+1597007164 c:\users\abc\desktop\prime_number\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597306793 source:c:\users\abc\desktop\prime_number\src\prime_number.c
+	"Prime_Number.h"
+
+1597306994 c:\users\abc\desktop\prime_number\inc\prime_number.h
+	<stdbool.h>
+
+1597298686 source:c:\users\abc\desktop\prime_number\test\test_prime_number.c
+	"unity.h"
+	"Prime_Number.h"
+	<stdbool.h>
+
+1597306703 source:f:\divyesh files\stepin program\c code\prime_number_with_doc\main.c
+	"test_Prime_Number.h"
+	<stdio.h>
+	<stdlib.h>
+
+1597231939 f:\divyesh files\stepin program\c code\prime_number_with_doc\test\test_prime_number.h
+
+1597306793 source:f:\divyesh files\stepin program\c code\prime_number_with_doc\src\prime_number.c
+	"Prime_Number.h"
+
+1597307175 f:\divyesh files\stepin program\c code\prime_number_with_doc\inc\prime_number.h
+	<stdbool.h>
+
+1597298686 source:f:\divyesh files\stepin program\c code\prime_number_with_doc\test\test_prime_number.c
+	"unity.h"
+	"Prime_Number.h"
+	<stdbool.h>
+
+1597007164 f:\divyesh files\stepin program\c code\prime_number_with_doc\unity\unity.h
+	"unity_internals.h"
+
+1597007164 f:\divyesh files\stepin program\c code\prime_number_with_doc\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597007164 source:f:\divyesh files\stepin program\c code\prime_number_with_doc\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
